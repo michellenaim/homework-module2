@@ -187,6 +187,12 @@ td {
   border: solid 1px #852b1b;
 }
 
+.green {
+  background-color: #9ed034;
+  color: white;
+  font-weight: bold;
+}
+
 th:first-child {
   width: 125px;
   height: 50px;
